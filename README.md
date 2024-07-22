@@ -47,7 +47,7 @@ Here's a glimpse of my skills and experience:
 - Supporting continuous improvement by exploring alternative technologies and presenting them for architectural review.
 - Strong analytical skills and a deep understanding of algorithms and data structures.
 - Experience in building scalable, testable, and composable full-stack applications.
-- Proven working experience in TypeScript/JavaScript, React, and React Native.
+- Proven working experience in TypeScript/JavaScript, React, Next and React Native.
 - Understanding of UX design best practices to create user-friendly interfaces.
 - Proficiency in using GraphQL and REST API micro-services for data retrieval.
 - Effective communication skills for teamwork and collaboration.
